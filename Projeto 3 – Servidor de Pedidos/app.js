@@ -1,5 +1,5 @@
 //para importar o express e suas funcionalidades
-const require = ("express");
+const express = require ("express");
 
 const app = express();
 
