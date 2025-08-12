@@ -7,6 +7,6 @@ PORT = 8081;
 
 app.listen(
     PORT, () => {
-        console.log(`Servidor de Pedidos rodando na porta${PORT}`)
+        console.log(`Servidor de Pedidos rodando na porta: ${PORT}`)
     }
 );
